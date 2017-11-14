@@ -1,8 +1,8 @@
 package test;
 
-public class ClassDemo {
+public class AssertTest {
     public static void main(String s[]){
-        ClassDemo c = new ClassDemo();
+        AssertTest c = new AssertTest();
         Class cls = c.getClass();
 
         // returns the name of the class
